@@ -19,4 +19,5 @@ Before running the app :
 To run the app : 
 
 1. Go to project directory
-2. run command : "node app.js"
+2. Run "npm i" to install all dependencies
+3. run command : "node app.js" to run the server (on port 5000)
